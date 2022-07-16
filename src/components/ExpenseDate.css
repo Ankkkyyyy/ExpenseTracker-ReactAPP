@@ -1,0 +1,20 @@
+.date {
+    border: 2px solid rgb(0, 0, 0);
+    /* padding: 0.5rem; */
+    padding: 1rem;
+    background-color: rgb(37, 80, 137);
+    border-radius: 12px;
+  
+
+}
+.date .day{
+    font-size: 1.5rem;
+
+}
+
+.date .month{
+    font-size: 65%;
+}
+.date .year{
+    font-size: 65%;
+}

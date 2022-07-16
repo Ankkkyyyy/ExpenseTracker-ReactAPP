@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-family: 'Noto Sans JP',sans-serif;
+
+}
+
+body{
+  margin:0;
+  background-color: rgba(167, 195, 209, 0.868);
+}

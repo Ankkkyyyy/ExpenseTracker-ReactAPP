@@ -1,0 +1,25 @@
+.new-expense__controls{
+    padding: 2%;
+    justify-content: space-between;
+}
+
+
+label {
+    font-weight: bolder;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+
+.new-expense_actions button {
+    margin-top: 4%;
+    padding: 2%;
+    border-radius: 12px;
+    color: white;
+    font-weight: 200;
+    background-color: rgb(120, 75, 120);
+    cursor: pointer;
+
+}
